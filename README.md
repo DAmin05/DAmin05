@@ -12,7 +12,7 @@
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-amin05/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)]([https://YOUR_PORTFOLIO_URL](https://devaminportfolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://devaminportfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-24243e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DAmin05)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.amin1016@gmail.com)
 
@@ -59,9 +59,13 @@ class Dev:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Data & Cloud
+### Data & Analytics
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Cloud & Tooling
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -104,7 +108,7 @@ class Dev:
       <br/>
       <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -115,13 +119,13 @@ class Dev:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DAmin05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
 &nbsp;
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DAmin05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DAmin05&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
@@ -129,10 +133,11 @@ class Dev:
 
 ## 🏆 Highlights
 
-| 🎓 Rutgers University | CS + Data Science · 3.7 GPA · Dean's List |
+| 🎓 Rutgers University | CS + Data Science · 3.7 GPA · Dean's List ×5 |
 |---|---|
 | 🏆 HackRU Winner | Best Hack in Health — NutriPal |
 | 🧠 Deep Learning (CS 462) | Saliency mapping across AlexNet / ConvNeXt / Swin · classifier-guided diffusion |
+| 📊 Analytics & Viz | Tableau dashboards · Python/Pandas statistical analysis |
 | ⚙️ EpochOS | Local-first AI desktop — Rust, Tauri, on-device RAG |
 | 🛡️ Rutgers PD | Community Service Officer |
 
